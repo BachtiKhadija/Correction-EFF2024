@@ -1,0 +1,154 @@
+{
+  "animateurs": [
+    {
+      "id": 1,
+      "nom_complet": "KAMILI SANAE",
+      "séminaires": [
+        {
+          "thème": "Animation 3D",
+          "date_debut": "2026-03-02",
+          "date_fin": "2026-03-15",
+          "description": "Introduction à l'animation 3D",
+          "cout_journalier": 500,
+          "durée": 13
+        },
+        {
+          "thème": "Modélisation 3D",
+          "date_debut": "2026-04-05",
+          "date_fin": "2026-04-12",
+          "description": "Création de modèles et objets 3D",
+          "cout_journalier": 600,
+          "durée": 7
+        },
+        {
+          "thème": "Rendu 3D",
+          "date_debut": "2026-05-10",
+          "date_fin": "2026-05-18",
+          "description": "Techniques d'éclairage et de rendu",
+          "cout_journalier": 550,
+          "durée": 8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom_complet": "Amine Akhsas",
+      "séminaires": [
+        {
+          "thème": "Développement Web",
+          "date_debut": "2026-03-10",
+          "date_fin": "2026-03-20",
+          "description": "Création de sites web avec HTML et CSS",
+          "cout_journalier": 450,
+          "durée": 10
+        },
+        {
+          "thème": "JavaScript",
+          "date_debut": "2026-04-01",
+          "date_fin": "2026-04-08",
+          "description": "Les bases de JavaScript et la manipulation du DOM",
+          "cout_journalier": 500,
+          "durée": 7
+        },
+        {
+          "thème": "React",
+          "date_debut": "2026-05-02",
+          "date_fin": "2026-05-12",
+          "description": "Création d'interfaces avec React",
+          "cout_journalier": 650,
+          "durée": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom_complet": "Douae sahiri ",
+      "séminaires": [
+        {
+          "thème": "Cybersécurité",
+          "date_debut": "2026-03-15",
+          "date_fin": "2026-03-22",
+          "description": "Introduction aux principes de la cybersécurité",
+          "cout_journalier": 700,
+          "durée": 7
+        },
+        {
+          "thème": "Sécurité des réseaux",
+          "date_debut": "2026-04-10",
+          "date_fin": "2026-04-18",
+          "description": "Protection et surveillance des réseaux",
+          "cout_journalier": 750,
+          "durée": 8
+        },
+        {
+          "thème": "Cryptographie",
+          "date_debut": "2026-05-05",
+          "date_fin": "2026-05-13",
+          "description": "Les bases du chiffrement des données",
+          "cout_journalier": 800,
+          "durée": 8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nom_complet": "Taha Ben Issa",
+      "séminaires": [
+        {
+          "thème": "Bases de données",
+          "date_debut": "2026-03-05",
+          "date_fin": "2026-03-12",
+          "description": "Conception et gestion des bases de données SQL",
+          "cout_journalier": 500,
+          "durée": 7
+        },
+        {
+          "thème": "MongoDB",
+          "date_debut": "2026-04-15",
+          "date_fin": "2026-04-22",
+          "description": "Introduction aux bases de données NoSQL",
+          "cout_journalier": 600,
+          "durée": 7
+        },
+        {
+          "thème": "Modélisation des données",
+          "date_debut": "2026-05-10",
+          "date_fin": "2026-05-17",
+          "description": "Modélisation conceptuelle et logique",
+          "cout_journalier": 550,
+          "durée": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nom_complet": "TAHIRI SALMA",
+      "séminaires": [
+        {
+          "thème": "Python",
+          "date_debut": "2026-03-08",
+          "date_fin": "2026-03-16",
+          "description": "Programmation Python pour débutants",
+          "cout_journalier": 500,
+          "durée": 8
+        },
+        {
+          "thème": "Data Science",
+          "date_debut": "2026-04-05",
+          "date_fin": "2026-04-15",
+          "description": "Analyse et visualisation des données",
+          "cout_journalier": 650,
+          "durée": 10
+        },
+        {
+          "thème": "Intelligence artificielle",
+          "date_debut": "2026-05-12",
+          "date_fin": "2026-05-22",
+          "description": "Découverte des concepts de l'intelligence artificielle",
+          "cout_journalier": 800,
+          "durée": 10
+        }
+      ]
+    }
+  ]
+}
